@@ -4,5 +4,5 @@
 
 **Instructions:** 
 - Once the BS_Game file has been opened, you will come across the main menu which has a Start, Instructions and Quit button. 
-- You can visit the Instructions in the game to learn about how to play, but the game design is quite clean and easy to use, so playing directly should not be a problem.
+- You can visit the ***Instructions*** to learn more about how to play, but the game design is quite clean and easy to use, so playing directly should not be a problem.
 - As of right now, there are **10** playable levels present in the game. 
