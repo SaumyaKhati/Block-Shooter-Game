@@ -17,4 +17,3 @@
   - **Sounds**: contains the audio files that were used to create various sound effects in the game. **Note** that all of the audio files are in **.OGG** format!
   - **Sprites**: contains the **templates** for all of the game objects that were used in the game (and extras --> which can be great if you want to add your own variations to the game!). 
   - **TextMeshPro**: contains all files corresponding to various font sizes + designs that were used in game. 
-
