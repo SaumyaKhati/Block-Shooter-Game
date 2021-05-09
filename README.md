@@ -9,7 +9,7 @@
 
 **Project Instructions**
 - This repository contains all files you need to create your own (additional) Block Shooter levels or customize the existing ones by changing the design in whatever way you prefer. 
-- All of the "relevant" files are in the Assets directory which has has been organized in a clean and comprehensive manner. 
+- All of the "relevant" files are in the Assets directory which has been organized in a clean and comprehensive manner. 
 - Particularly, the major cateogories that the files have been divided into are: 
   - **Prefabs**: contains all game objects (blocks, ships, lasers, etc). 
   - **Scripts**: contains all source files that control the behaviour of all game objects as well as the game flow itself. 
