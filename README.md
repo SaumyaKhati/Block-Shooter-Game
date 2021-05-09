@@ -7,6 +7,6 @@
 - You can visit the ***Instructions*** to learn more about how to play, but the game design is quite clean and easy to use, so playing directly should not be a problem.
 - As of right now, there are **10** playable levels present in the game. 
 
-**Project Instrctions**
+**Project Instructions**
 - This repository contains all files you need to create your own (additional) Block Shooter levels or customize the existing ones by changing the design in whatever way you prefer. 
 - The project has been organized in a clean and comprehensive manner. Particularly, the major cateogories that the files have been divided into are: **Assets** (which contain all sprites/images/game objects), **Scripts** (which contain all source files) 
